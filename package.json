@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/posipan/typescript-practice/issues"
   },
-  "homepage": "https://github.com/posipan/typescript-practice#readme"
+  "homepage": "https://github.com/posipan/typescript-practice#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }
