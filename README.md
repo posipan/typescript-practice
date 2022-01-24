@@ -1,0 +1,1 @@
+TypeScriptの練習でい✊
